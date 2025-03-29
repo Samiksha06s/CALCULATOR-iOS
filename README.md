@@ -25,6 +25,19 @@ The project is organized with the following structure:
 **Main.storyboard** defines the user interface and connects the buttons to their corresponding actions.
 **AppDelegate.swift** manages the app’s lifecycle and initialization.
 
+**OUTPUTS**:
+
+<img width="436" alt="Image" src="https://github.com/user-attachments/assets/7885c525-3e7a-46a9-8f41-50f1c36880c8" />
+
+<img width="436" alt="Image" src="https://github.com/user-attachments/assets/107f20f5-e46b-48ce-8bb4-316a2b7d1e8c" />
+
+<img width="436" alt="Image" src="https://github.com/user-attachments/assets/2c544b35-16e8-44e9-9aaf-ad9e837a8a17" />
+
+<img width="436" alt="Image" src="https://github.com/user-attachments/assets/cbf60b37-0cb6-4291-8342-8bece678ee2e" />
+
+<img width="436" alt="Image" src="https://github.com/user-attachments/assets/08150d6e-e143-4cc3-9f87-b78e9845be3a" />
+
+
 Known Issues - Currently, the app does not support complex operations such as parentheses or advanced mathematical functions. Additionally, it does not maintain a history of previous calculations, which may be considered for future updates.
 
 Future Improvements - Potential improvements include adding support for advanced mathematical functions, implementing a history feature to store and display previous calculations, and introducing a dark and light mode to enhance the user experience.
